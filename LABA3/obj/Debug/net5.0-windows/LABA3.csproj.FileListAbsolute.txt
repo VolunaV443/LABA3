@@ -1,0 +1,5 @@
+E:\Projects С#\LABA3\obj\Debug\net5.0-windows\LABA3.csprojAssemblyReference.cache
+E:\Projects С#\LABA3\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\Projects С#\LABA3\obj\Debug\net5.0-windows\App.g.cs
+E:\Projects С#\LABA3\obj\Debug\net5.0-windows\LABA3_MarkupCompile.cache
+E:\Projects С#\LABA3\obj\Debug\net5.0-windows\LABA3_MarkupCompile.lref
